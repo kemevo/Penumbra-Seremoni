@@ -39,4 +39,6 @@
     ```
     Sosyal medyada paylaşım yaptıktan sonra.Aşağıdaki formu dolduralım.
     [Tıklayın](https://form.asana.com/?k=kWyyWPzQMkJoNTmrfAbWaA&d=1206052071402903)
+    
+    [Burdan kontrol edebilirsiniz cüzdan adresini](https://summoning.penumbra.zone/phase/1)
           
