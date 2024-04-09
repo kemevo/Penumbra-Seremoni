@@ -6,7 +6,7 @@
     
   - PCLI YUKLEME
     ```
-    curl -O -L https://github.com/penumbra-zone/penumbra/releases/download/v0.64.1/pcli-x86_64-unknown-linux-gnu.tar.xz
+    curl -sSfL -O https://github.com/penumbra-zone/penumbra/releases/download/v0.71.0/pcli-x86_64-unknown-linux-gnu.tar.xz
     unxz pcli-x86_64-unknown-linux-gnu.tar.xz
     tar -xf pcli-x86_64-unknown-linux-gnu.tar
     sudo mv pcli-x86_64-unknown-linux-gnu/pcli /usr/local/bin/
@@ -41,4 +41,17 @@
     [Tıklayın](https://form.asana.com/?k=kWyyWPzQMkJoNTmrfAbWaA&d=1206052071402903)
     
     [Burdan kontrol edebilirsiniz cüzdan adresini](https://summoning.penumbra.zone/phase/1)
+
+    # Seremoni Faz 2
+    ```
+    screen -S pen2
+    ```
+    ```
+    pcli ceremony contribute --phase 2 --bid 60penumbra
+    ```
+     Sosyal medyada paylaşım yaptıktan sonra.Aşağıdaki formu dolduralım.
+    [Tıklayın](https://form.asana.com/?k=THhk7qmp3IDwCvXWTPHkow&d=1206052071402903)
+
+    [Burdan kontrol edebilirsiniz cüzdan adresini](https://summoning.penumbra.zone/phase/2)
+    
           
