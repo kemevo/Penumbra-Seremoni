@@ -37,7 +37,7 @@
     pcli ceremony contribute --phase 1 --bid 60penumbra --coordinator-address penumbra1qvqr8cvqyf4pwrl6svw9kj8eypf3fuunrcs83m30zxh57y2ytk94gygmtq5k82cjdq9y3mlaa3fwctwpdjr6fxnwuzrsy4ezm0u2tqpzw0sed82shzcr42sju55en26mavjnw4
     #hata vermeden slot ve uzun bir numara verecek vermezse elimizde token ne kadar kalırsa onunla deneyelim. kalmazsa 0 olarak deneyelim. bağlanması uzun sürüyor. ctrl+a+d ile çıkış yapıp ara ara kontrol edebiliriz. hata verirse hemen veriyor zaten. 
     ```
-    Sosyal medyada paylaşım yaptıktan sonra.Aşağıdaki formu dolduralım.
+    Sosyal medyada paylaşım yaptıktan sonra. Formu dolduralım.
     [Tıklayın](https://form.asana.com/?k=kWyyWPzQMkJoNTmrfAbWaA&d=1206052071402903)
     
     [Burdan kontrol edebilirsiniz cüzdan adresini](https://summoning.penumbra.zone/phase/1)
@@ -49,7 +49,7 @@
     ```
     pcli ceremony contribute --phase 2 --bid 60penumbra
     ```
-     Sosyal medyada paylaşım yaptıktan sonra.Aşağıdaki formu dolduralım.
+     Sosyal medyada paylaşım yaptıktan sonra. Formu dolduralım.
     [Tıklayın](https://form.asana.com/?k=THhk7qmp3IDwCvXWTPHkow&d=1206052071402903)
 
     [Burdan kontrol edebilirsiniz cüzdan adresini](https://summoning.penumbra.zone/phase/2)
